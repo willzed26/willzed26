@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wiliam</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A Fullstack Developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **E-Commerce Project**
